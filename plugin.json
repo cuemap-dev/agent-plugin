@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cuemap",
+  "version": "0.7.3",
+  "description": "Repository-aware code memory and context for AI coding agents.",
+  "author": {
+    "name": "Kaan Demirel",
+    "url": "https://github.com/cuemap-dev"
+  },
+  "homepage": "https://github.com/cuemap-dev/cuemap-agent-plugin",
+  "repository": "https://github.com/cuemap-dev/cuemap-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "code-memory",
+    "repository-context",
+    "mcp",
+    "rag",
+    "cuemap"
+  ]
+}

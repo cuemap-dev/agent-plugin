@@ -1,0 +1,27 @@
+{
+  "name": "cuemap-agent-plugin",
+  "version": "0.7.3",
+  "description": "Agent Plugins package for CueMap repository-aware memory.",
+  "files": [
+    "plugin.json",
+    "mcp.json",
+    "skills",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "author": "Kaan Demirel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuemap-dev/cuemap-agent-plugin.git"
+  },
+  "keywords": [
+    "agent-plugin",
+    "agent-skills",
+    "mcp",
+    "cuemap",
+    "code-memory",
+    "repository-context"
+  ]
+}
