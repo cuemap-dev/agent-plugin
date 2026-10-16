@@ -6,7 +6,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "cuemap-mcp@0.7.3"
+        "cuemap-mcp@0.7.5"
       ]
     }
   }

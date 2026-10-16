@@ -1,6 +1,6 @@
 {
   "name": "cuemap-agent-plugin",
-  "version": "0.7.3",
+  "version": "0.7.5",
   "description": "Agent Plugins package for CueMap repository-aware memory.",
   "files": [
     "plugin.json",
