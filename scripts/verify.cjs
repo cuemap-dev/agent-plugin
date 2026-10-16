@@ -54,7 +54,7 @@ function verifyAgentPlugin(pluginRoot = defaultPluginRoot) {
     assert.equal(manifest.name, "cuemap");
     assert.match(manifest.name, /^[a-z0-9]+(?:[.-][a-z0-9]+)*$/);
     assert.doesNotMatch(manifest.name, /(?:--|\.\.)/);
-    assert.equal(manifest.version, "0.7.3");
+    assert.equal(manifest.version, "0.7.5");
     assert.equal(manifest.license, "MIT");
     assert.ok(Array.isArray(manifest.keywords) && manifest.keywords.length > 0);
 
@@ -73,7 +73,7 @@ function verifyAgentPlugin(pluginRoot = defaultPluginRoot) {
     assert.deepEqual(mcp.mcpServers.cuemap, {
         type: "stdio",
         command: "npx",
-        args: ["-y", "cuemap-mcp@0.7.3"],
+        args: ["-y", "cuemap-mcp@0.7.5"],
     });
 
     const skill = parseFrontmatter(skillPath);

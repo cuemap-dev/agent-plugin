@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.5] - 2026-10-14
+
+### Changed
+- Pins `cuemap-mcp@0.7.5`.
+- The `cuemap-memory` skill recommends leaving `expansion_depth` unset so recall uses the engine's conversation-round default.
+
 ## [0.7.3] - 2026-08-28
 
 ### Added

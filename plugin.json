@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cuemap",
-  "version": "0.7.3",
+  "version": "0.7.5",
   "description": "Repository-aware code memory and context for AI coding agents.",
   "author": {
     "name": "Kaan Demirel",
